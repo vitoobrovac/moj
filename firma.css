@@ -13,9 +13,7 @@ nav{
     height: 70px;
     background-color:rgb(251, 121, 188);
 }
-ul {
 
-}
 
 ul li {
     list-style: none;
@@ -59,16 +57,39 @@ ul li a:hover {
     
 
 }
+
+
+
+
+
+
+.rezultat{
+    color: black;
+    
+    
+}
+
+.utrke li{
+   
+    font-size: 25;
+    text-align: left;
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+
+
+table{
+    font-size: 24.8px;
+    border: 1px;
+    border-color: black;
+    background-color:  rgb(179, 247, 247);
+    
+    
+}
 .bla{
-    display: block;
-    text-align: center;
-    color: white;
-    text-decoration: none;
-    background-color: black;
-    margin-top: 20px;
-    padding: 20px;
-    font-weight: bold;
-    font-size: 25px;
-
-
+    background-color:  rgb(179, 247, 247);
+    color: black;
+    padding: 0;
+    text-align: left;
 }
